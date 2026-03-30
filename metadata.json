@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Diesel",
+  "description": "Sistema de controle de entrada e saída de óleo diesel de gerador, com relatórios e integração com Google Sheets.",
+  "requestFramePermissions": []
+}
